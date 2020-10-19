@@ -1,0 +1,30 @@
+
+/* Set a background image by replacing the URL below */
+.view {
+  background: url('../img/background.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.fWeight {
+	font-weight: bold;
+}
+.table {
+	font-size: 25px;
+}
+.divContent {
+	background-color: #c3eefa;
+	opacity: 0.7;
+	border-radius: 3%;
+}
+a{
+	text-decoration: none;
+	color: #fc8c03;
+}
+a:hover{
+	text-decoration: none;
+	color: #ad6103;
+}
+
+
